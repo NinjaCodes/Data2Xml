@@ -1,0 +1,8 @@
+language: csharp
+solution: Ninja.Data2Xml.sln
+install:
+  - nuget restore Ninja.Data2Xml.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release Ninja.Data2Xml.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./Test/Ninja.Data2Xml.Core.Test/bin/Release/Ninja.Data2Xml.Core.Test.dll

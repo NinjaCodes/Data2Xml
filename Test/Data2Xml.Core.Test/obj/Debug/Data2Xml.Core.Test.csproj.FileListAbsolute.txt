@@ -1,0 +1,5 @@
+C:\work\Data2Xml\Data2Xml.Core.Test\bin\Debug\Data2Xml.Core.Test.dll
+C:\work\Data2Xml\Data2Xml.Core.Test\bin\Debug\Data2Xml.Core.Test.pdb
+C:\work\Data2Xml\Data2Xml.Core.Test\obj\Debug\Data2Xml.Core.Test.csprojResolveAssemblyReference.cache
+C:\work\Data2Xml\Data2Xml.Core.Test\obj\Debug\Data2Xml.Core.Test.dll
+C:\work\Data2Xml\Data2Xml.Core.Test\obj\Debug\Data2Xml.Core.Test.pdb
